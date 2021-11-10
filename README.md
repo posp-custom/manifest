@@ -1,6 +1,7 @@
-# Potato Open Sauce Project
-<img src="https://raw.githubusercontent.com/PotatoProject/manifest/frico-release/XDAThread/main.png">
-Haters gonna hate, potatoes gonna potate!
+# Potato Open Sauce Project Custom
+<img src="https://raw.githubusercontent.com/posp-custom/manifest/frico-release/XDAThread/main.png">
+Haters gonna hate, potatoes gonna potate!<br>
+posp-custom is maintained by @LeddaZ, it has a few source-side changes for personal use.
 
 Credits
 -------
@@ -24,7 +25,7 @@ Tastier than ever!
     1. Make sure you have a build environment setup.
     2. Make a new directory, cd to it and run
         ```
-        repo init -u https://github.com/PotatoProject/manifest -b frico-release;
+        repo init -u https://github.com/posp-custom/manifest -b frico-release;
         repo sync;
         ```
     3. The ROM sauce is ready! Get ready to prepare your device-specific sauce.

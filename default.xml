@@ -11,6 +11,10 @@
           fetch="https://github.com/PotatoProject"
           revision="refs/heads/frico-release" />
 
+  <remote name="potato-custom"
+          fetch="https://github.com/posp-custom"
+          revision="refs/heads/frico-release" />
+
   <remote name="potato-next"
           fetch="https://github.com/PotatoProject-next"
           revision="refs/heads/f-staging" />
